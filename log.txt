@@ -1,0 +1,131 @@
+Processing file: ./data/vm_cpu_readings-file-1-of-195.csv
+Memory used: 141.52834701538086 incremental :-0.21612930297851562
+Processing file: ./data/vm_cpu_readings-file-2-of-195.csv
+Memory used: 141.86568450927734 incremental :0.3402214050292969
+Processing file: ./data/vm_cpu_readings-file-3-of-195.csv
+Memory used: 142.3922004699707 incremental :0.5260353088378906
+Processing file: ./data/vm_cpu_readings-file-4-of-195.csv
+Memory used: 142.56422424316406 incremental :0.17154312133789062
+Processing file: ./data/vm_cpu_readings-file-5-of-195.csv
+Memory used: 142.77677154541016 incremental :0.212066650390625
+Processing file: ./data/vm_cpu_readings-file-6-of-195.csv
+Memory used: 142.9949493408203 incremental :0.21817779541015625
+Processing file: ./data/vm_cpu_readings-file-7-of-195.csv
+Memory used: 143.23310089111328 incremental :0.23815155029296875
+Processing file: ./data/vm_cpu_readings-file-8-of-195.csv
+Memory used: 143.42143630981445 incremental :0.18545150756835938
+Processing file: ./data/vm_cpu_readings-file-9-of-195.csv
+Memory used: 143.60545349121094 incremental :0.18401718139648438
+Processing file: ./data/vm_cpu_readings-file-10-of-195.csv
+Memory used: 143.69041442871094 incremental :0.0859222412109375
+Processing file: ./data/vm_cpu_readings-file-11-of-195.csv
+Memory used: 143.60268020629883 incremental :-0.08677291870117188
+Processing file: ./data/vm_cpu_readings-file-12-of-195.csv
+Memory used: 143.92397689819336 incremental :0.32129669189453125
+Processing file: ./data/vm_cpu_readings-file-13-of-195.csv
+Memory used: 143.87616729736328 incremental :-0.047809600830078125
+Processing file: ./data/vm_cpu_readings-file-14-of-195.csv
+Memory used: 144.01831817626953 incremental :0.14167022705078125
+Processing file: ./data/vm_cpu_readings-file-15-of-195.csv
+Memory used: 144.42164611816406 incremental :0.40380859375
+Processing file: ./data/vm_cpu_readings-file-16-of-195.csv
+Memory used: 144.53305435180664 incremental :0.11140823364257812
+Processing file: ./data/vm_cpu_readings-file-17-of-195.csv
+Memory used: 146.15354537963867 incremental :1.6185684204101562
+Processing file: ./data/vm_cpu_readings-file-18-of-195.csv
+Memory used: 143.6872329711914 incremental :-2.4702186584472656
+Processing file: ./data/vm_cpu_readings-file-19-of-195.csv
+Memory used: 145.13695526123047 incremental :1.4497222900390625
+Processing file: ./data/vm_cpu_readings-file-20-of-195.csv
+Memory used: 145.1608543395996 incremental :0.023899078369140625
+Processing file: ./data/vm_cpu_readings-file-21-of-195.csv
+Memory used: 145.23657989501953 incremental :0.07572555541992188
+Processing file: ./data/vm_cpu_readings-file-22-of-195.csv
+Memory used: 145.35386657714844 incremental :0.11728668212890625
+Processing file: ./data/vm_cpu_readings-file-23-of-195.csv
+Memory used: 144.71215438842773 incremental :-0.6417121887207031
+Processing file: ./data/vm_cpu_readings-file-24-of-195.csv
+Memory used: 145.60089874267578 incremental :0.8887443542480469
+Processing file: ./data/vm_cpu_readings-file-25-of-195.csv
+Memory used: 145.87396621704102 incremental :0.2725868225097656
+Processing file: ./data/vm_cpu_readings-file-26-of-195.csv
+Memory used: 146.12347030639648 incremental :0.24950408935546875
+Processing file: ./data/vm_cpu_readings-file-27-of-195.csv
+Memory used: 146.19372940063477 incremental :0.06929779052734375
+Processing file: ./data/vm_cpu_readings-file-28-of-195.csv
+Memory used: 145.80069732666016 incremental :-0.3930320739746094
+Processing file: ./data/vm_cpu_readings-file-29-of-195.csv
+Memory used: 146.4562530517578 incremental :0.656036376953125
+Processing file: ./data/vm_cpu_readings-file-30-of-195.csv
+Memory used: 146.50908279418945 incremental :0.052829742431640625
+Processing file: ./data/vm_cpu_readings-file-31-of-195.csv
+Memory used: 146.76006317138672 incremental :0.2509803771972656
+Processing file: ./data/vm_cpu_readings-file-32-of-195.csv
+Memory used: 145.3856544494629 incremental :-1.3744087219238281
+Processing file: ./data/vm_cpu_readings-file-33-of-195.csv
+Memory used: 147.7788314819336 incremental :2.3922157287597656
+Processing file: ./data/vm_cpu_readings-file-34-of-195.csv
+Memory used: 147.40166091918945 incremental :-0.3714027404785156
+Processing file: ./data/vm_cpu_readings-file-35-of-195.csv
+Memory used: 147.52776336669922 incremental :0.12610244750976562
+Processing file: ./data/vm_cpu_readings-file-36-of-195.csv
+Memory used: 147.60086822509766 incremental :0.07262420654296875
+Processing file: ./data/vm_cpu_readings-file-37-of-195.csv
+Memory used: 147.26580810546875 incremental :-0.33506011962890625
+Processing file: ./data/vm_cpu_readings-file-38-of-195.csv
+Memory used: 147.75326538085938 incremental :0.487457275390625
+Processing file: ./data/vm_cpu_readings-file-39-of-195.csv
+Memory used: 148.02752685546875 incremental :0.27378082275390625
+Processing file: ./data/vm_cpu_readings-file-40-of-195.csv
+Memory used: 148.14033889770508 incremental :0.11281204223632812
+Processing file: ./data/vm_cpu_readings-file-41-of-195.csv
+Memory used: 147.21167373657227 incremental :-0.9286651611328125
+Processing file: ./data/vm_cpu_readings-file-42-of-195.csv
+Memory used: 148.41198348999023 incremental :1.1998291015625
+Processing file: ./data/vm_cpu_readings-file-43-of-195.csv
+Memory used: 149.72787857055664 incremental :1.3154144287109375
+Processing file: ./data/vm_cpu_readings-file-44-of-195.csv
+Memory used: 147.3683738708496 incremental :-2.3595046997070312
+Processing file: ./data/vm_cpu_readings-file-45-of-195.csv
+Memory used: 148.73480606079102 incremental :1.366912841796875
+Processing file: ./data/vm_cpu_readings-file-46-of-195.csv
+Memory used: 148.00513076782227 incremental :-0.72967529296875
+Processing file: ./data/vm_cpu_readings-file-47-of-195.csv
+Memory used: 148.89042282104492 incremental :0.885772705078125
+Processing file: ./data/vm_cpu_readings-file-48-of-195.csv
+Memory used: 149.06251525878906 incremental :0.17401504516601562
+Processing file: ./data/vm_cpu_readings-file-49-of-195.csv
+Memory used: 149.08712005615234 incremental :0.02508544921875
+Processing file: ./data/vm_cpu_readings-file-50-of-195.csv
+Memory used: 149.2691993713379 incremental :0.18207931518554688
+Processing file: ./data/vm_cpu_readings-file-51-of-195.csv
+Memory used: 149.49685668945312 incremental :0.22765731811523438
+Processing file: ./data/vm_cpu_readings-file-52-of-195.csv
+Memory used: 149.739013671875 incremental :0.242156982421875
+Processing file: ./data/vm_cpu_readings-file-53-of-195.csv
+Memory used: 149.85956954956055 incremental :0.12103652954101562
+Processing file: ./data/vm_cpu_readings-file-54-of-195.csv
+Memory used: 149.7040672302246 incremental :-0.1555023193359375
+Processing file: ./data/vm_cpu_readings-file-55-of-195.csv
+Memory used: 150.09185409545898 incremental :0.387786865234375
+Processing file: ./data/vm_cpu_readings-file-56-of-195.csv
+Memory used: 150.43487548828125 incremental :0.34271240234375
+Processing file: ./data/vm_cpu_readings-file-57-of-195.csv
+Memory used: 150.9602508544922 incremental :0.5258560180664062
+Processing file: ./data/vm_cpu_readings-file-58-of-195.csv
+Memory used: 151.47560501098633 incremental :0.5143928527832031
+Processing file: ./data/vm_cpu_readings-file-59-of-195.csv
+Memory used: 151.47703552246094 incremental :0.000949859619140625
+Processing file: ./data/vm_cpu_readings-file-60-of-195.csv
+Memory used: 150.82923889160156 incremental :-0.647796630859375
+Processing file: ./data/vm_cpu_readings-file-61-of-195.csv
+Memory used: 151.63527297973633 incremental :0.8060340881347656
+Processing file: ./data/vm_cpu_readings-file-62-of-195.csv
+Memory used: 151.71453857421875 incremental :0.07878494262695312
+Processing file: ./data/vm_cpu_readings-file-63-of-195.csv
+Memory used: 151.5157470703125 incremental :-0.19879150390625
+Processing file: ./data/vm_cpu_readings-file-64-of-195.csv
+Memory used: 152.02246475219727 incremental :0.5057563781738281
+Processing file: ./data/vm_cpu_readings-file-65-of-195.csv
+Memory used: 152.18682098388672 incremental :0.16387557983398438
+Processing file: ./data/vm_cpu_readings-file-66-of-195.csv
