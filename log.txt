@@ -1,131 +1,1249 @@
+1147 to 1148
 Processing file: ./data/vm_cpu_readings-file-1-of-195.csv
-Memory used: 141.52834701538086 incremental :-0.21612930297851562
 Processing file: ./data/vm_cpu_readings-file-2-of-195.csv
-Memory used: 141.86568450927734 incremental :0.3402214050292969
 Processing file: ./data/vm_cpu_readings-file-3-of-195.csv
-Memory used: 142.3922004699707 incremental :0.5260353088378906
-Processing file: ./data/vm_cpu_readings-file-4-of-195.csv
-Memory used: 142.56422424316406 incremental :0.17154312133789062
-Processing file: ./data/vm_cpu_readings-file-5-of-195.csv
-Memory used: 142.77677154541016 incremental :0.212066650390625
+Processing file: ./data/vm_cpu_readings-file-4-of-195.csvProcessing file: ./data/vm_cpu_readings-file-5-of-195.csv
+
 Processing file: ./data/vm_cpu_readings-file-6-of-195.csv
-Memory used: 142.9949493408203 incremental :0.21817779541015625
 Processing file: ./data/vm_cpu_readings-file-7-of-195.csv
-Memory used: 143.23310089111328 incremental :0.23815155029296875
-Processing file: ./data/vm_cpu_readings-file-8-of-195.csv
-Memory used: 143.42143630981445 incremental :0.18545150756835938
 Processing file: ./data/vm_cpu_readings-file-9-of-195.csv
-Memory used: 143.60545349121094 incremental :0.18401718139648438
-Processing file: ./data/vm_cpu_readings-file-10-of-195.csv
-Memory used: 143.69041442871094 incremental :0.0859222412109375
-Processing file: ./data/vm_cpu_readings-file-11-of-195.csv
-Memory used: 143.60268020629883 incremental :-0.08677291870117188
-Processing file: ./data/vm_cpu_readings-file-12-of-195.csv
-Memory used: 143.92397689819336 incremental :0.32129669189453125
+Processing file: ./data/vm_cpu_readings-file-8-of-195.csvProcessing file: ./data/vm_cpu_readings-file-10-of-195.csv
+
+Processing file: ./data/vm_cpu_readings-file-11-of-195.csvProcessing file: ./data/vm_cpu_readings-file-12-of-195.csv
+
 Processing file: ./data/vm_cpu_readings-file-13-of-195.csv
-Memory used: 143.87616729736328 incremental :-0.047809600830078125
 Processing file: ./data/vm_cpu_readings-file-14-of-195.csv
-Memory used: 144.01831817626953 incremental :0.14167022705078125
 Processing file: ./data/vm_cpu_readings-file-15-of-195.csv
-Memory used: 144.42164611816406 incremental :0.40380859375
 Processing file: ./data/vm_cpu_readings-file-16-of-195.csv
-Memory used: 144.53305435180664 incremental :0.11140823364257812
 Processing file: ./data/vm_cpu_readings-file-17-of-195.csv
-Memory used: 146.15354537963867 incremental :1.6185684204101562
 Processing file: ./data/vm_cpu_readings-file-18-of-195.csv
-Memory used: 143.6872329711914 incremental :-2.4702186584472656
-Processing file: ./data/vm_cpu_readings-file-19-of-195.csv
-Memory used: 145.13695526123047 incremental :1.4497222900390625
-Processing file: ./data/vm_cpu_readings-file-20-of-195.csv
-Memory used: 145.1608543395996 incremental :0.023899078369140625
+Processing file: ./data/vm_cpu_readings-file-19-of-195.csvProcessing file: ./data/vm_cpu_readings-file-20-of-195.csv
+
+Current memory usage: 0.25601673126220703MB
+Peak memory usage: 171.84378719329834MB
 Processing file: ./data/vm_cpu_readings-file-21-of-195.csv
-Memory used: 145.23657989501953 incremental :0.07572555541992188
+Current memory usage: 0.25897789001464844MB
+Peak memory usage: 171.84663009643555MB
 Processing file: ./data/vm_cpu_readings-file-22-of-195.csv
-Memory used: 145.35386657714844 incremental :0.11728668212890625
+Current memory usage: 0.25894737243652344MB
+Peak memory usage: 171.84660148620605MB
 Processing file: ./data/vm_cpu_readings-file-23-of-195.csv
-Memory used: 144.71215438842773 incremental :-0.6417121887207031
+Current memory usage: 0.2550077438354492MB
+Peak memory usage: 171.84263134002686MB
 Processing file: ./data/vm_cpu_readings-file-24-of-195.csv
-Memory used: 145.60089874267578 incremental :0.8887443542480469
+Current memory usage: 0.26077747344970703MB
+Peak memory usage: 171.84874057769775MB
 Processing file: ./data/vm_cpu_readings-file-25-of-195.csv
-Memory used: 145.87396621704102 incremental :0.2725868225097656
+Current memory usage: 0.2540922164916992MB
+Peak memory usage: 171.83452796936035MB
 Processing file: ./data/vm_cpu_readings-file-26-of-195.csv
-Memory used: 146.12347030639648 incremental :0.24950408935546875
+Current memory usage: 0.2606334686279297MB
+Peak memory usage: 171.84842681884766MB
 Processing file: ./data/vm_cpu_readings-file-27-of-195.csv
-Memory used: 146.19372940063477 incremental :0.06929779052734375
+Current memory usage: 0.252593994140625MB
+Peak memory usage: 171.83979415893555MB
 Processing file: ./data/vm_cpu_readings-file-28-of-195.csv
-Memory used: 145.80069732666016 incremental :-0.3930320739746094
+Current memory usage: 0.2592582702636719MB
+Peak memory usage: 171.84686183929443MB
 Processing file: ./data/vm_cpu_readings-file-29-of-195.csv
-Memory used: 146.4562530517578 incremental :0.656036376953125
+Current memory usage: 0.2499074935913086MB
+Peak memory usage: 171.83739280700684MB
 Processing file: ./data/vm_cpu_readings-file-30-of-195.csv
-Memory used: 146.50908279418945 incremental :0.052829742431640625
+Current memory usage: 0.2504234313964844MB
+Peak memory usage: 171.83774375915527MB
 Processing file: ./data/vm_cpu_readings-file-31-of-195.csv
-Memory used: 146.76006317138672 incremental :0.2509803771972656
+Current memory usage: 0.25002098083496094MB
+Peak memory usage: 171.83745861053467MB
 Processing file: ./data/vm_cpu_readings-file-32-of-195.csv
-Memory used: 145.3856544494629 incremental :-1.3744087219238281
+Current memory usage: 0.2589912414550781MB
+Peak memory usage: 171.84667873382568MB
 Processing file: ./data/vm_cpu_readings-file-33-of-195.csv
-Memory used: 147.7788314819336 incremental :2.3922157287597656
+Current memory usage: 0.25106239318847656MB
+Peak memory usage: 171.83856296539307MB
 Processing file: ./data/vm_cpu_readings-file-34-of-195.csv
-Memory used: 147.40166091918945 incremental :-0.3714027404785156
+Current memory usage: 0.252044677734375MB
+Peak memory usage: 171.83960819244385MB
 Processing file: ./data/vm_cpu_readings-file-35-of-195.csv
-Memory used: 147.52776336669922 incremental :0.12610244750976562
+Current memory usage: 0.2602081298828125MB
+Peak memory usage: 171.84777164459229MB
 Processing file: ./data/vm_cpu_readings-file-36-of-195.csv
-Memory used: 147.60086822509766 incremental :0.07262420654296875
+Current memory usage: 0.2596712112426758MB
+Peak memory usage: 171.84688091278076MB
 Processing file: ./data/vm_cpu_readings-file-37-of-195.csv
-Memory used: 147.26580810546875 incremental :-0.33506011962890625
+Current memory usage: 0.25478363037109375MB
+Peak memory usage: 171.84088611602783MB
 Processing file: ./data/vm_cpu_readings-file-38-of-195.csv
-Memory used: 147.75326538085938 incremental :0.487457275390625
+Current memory usage: 0.2544088363647461MB
+Peak memory usage: 171.8418951034546MB
 Processing file: ./data/vm_cpu_readings-file-39-of-195.csv
-Memory used: 148.02752685546875 incremental :0.27378082275390625
+Current memory usage: 0.2557048797607422MB
+Peak memory usage: 171.84319305419922MB
 Processing file: ./data/vm_cpu_readings-file-40-of-195.csv
-Memory used: 148.14033889770508 incremental :0.11281204223632812
+Current memory usage: 0.029806137084960938MB
+Peak memory usage: 171.6533374786377MB
 Processing file: ./data/vm_cpu_readings-file-41-of-195.csv
-Memory used: 147.21167373657227 incremental :-0.9286651611328125
+Current memory usage: 0.03130149841308594MB
+Peak memory usage: 171.6479148864746MB
 Processing file: ./data/vm_cpu_readings-file-42-of-195.csv
-Memory used: 148.41198348999023 incremental :1.1998291015625
+Current memory usage: 0.03055572509765625MB
+Peak memory usage: 171.65402698516846MB
 Processing file: ./data/vm_cpu_readings-file-43-of-195.csv
-Memory used: 149.72787857055664 incremental :1.3154144287109375
+Current memory usage: 0.029512405395507812MB
+Peak memory usage: 171.65303897857666MB
 Processing file: ./data/vm_cpu_readings-file-44-of-195.csv
-Memory used: 147.3683738708496 incremental :-2.3595046997070312
+Current memory usage: 0.030373573303222656MB
+Peak memory usage: 171.65388011932373MB
 Processing file: ./data/vm_cpu_readings-file-45-of-195.csv
-Memory used: 148.73480606079102 incremental :1.366912841796875
+Current memory usage: 0.03033924102783203MB
+Peak memory usage: 171.65361309051514MB
 Processing file: ./data/vm_cpu_readings-file-46-of-195.csv
-Memory used: 148.00513076782227 incremental :-0.72967529296875
+Current memory usage: 0.030782699584960938MB
+Peak memory usage: 171.6542205810547MB
 Processing file: ./data/vm_cpu_readings-file-47-of-195.csv
-Memory used: 148.89042282104492 incremental :0.885772705078125
+Current memory usage: 0.030267715454101562MB
+Peak memory usage: 171.65318965911865MB
 Processing file: ./data/vm_cpu_readings-file-48-of-195.csv
-Memory used: 149.06251525878906 incremental :0.17401504516601562
+Current memory usage: 0.029204368591308594MB
+Peak memory usage: 171.65258884429932MB
 Processing file: ./data/vm_cpu_readings-file-49-of-195.csv
-Memory used: 149.08712005615234 incremental :0.02508544921875
+Current memory usage: 0.029068946838378906MB
+Peak memory usage: 171.65238094329834MB
 Processing file: ./data/vm_cpu_readings-file-50-of-195.csv
-Memory used: 149.2691993713379 incremental :0.18207931518554688
+Current memory usage: 0.029145240783691406MB
+Peak memory usage: 171.65224838256836MB
 Processing file: ./data/vm_cpu_readings-file-51-of-195.csv
-Memory used: 149.49685668945312 incremental :0.22765731811523438
+Current memory usage: 0.028754234313964844MB
+Peak memory usage: 171.65202808380127MB
 Processing file: ./data/vm_cpu_readings-file-52-of-195.csv
-Memory used: 149.739013671875 incremental :0.242156982421875
+Current memory usage: 0.02976512908935547MB
+Peak memory usage: 171.6531400680542MB
 Processing file: ./data/vm_cpu_readings-file-53-of-195.csv
-Memory used: 149.85956954956055 incremental :0.12103652954101562
+Current memory usage: 0.0314788818359375MB
+Peak memory usage: 171.64640712738037MB
+Current memory usage: 0.02969837188720703MB
+Peak memory usage: 171.65332794189453MB
 Processing file: ./data/vm_cpu_readings-file-54-of-195.csv
-Memory used: 149.7040672302246 incremental :-0.1555023193359375
 Processing file: ./data/vm_cpu_readings-file-55-of-195.csv
-Memory used: 150.09185409545898 incremental :0.387786865234375
+Current memory usage: 0.030965805053710938MB
+Peak memory usage: 171.65442657470703MB
 Processing file: ./data/vm_cpu_readings-file-56-of-195.csv
-Memory used: 150.43487548828125 incremental :0.34271240234375
+Current memory usage: 0.03040313720703125MB
+Peak memory usage: 171.65259265899658MB
 Processing file: ./data/vm_cpu_readings-file-57-of-195.csv
-Memory used: 150.9602508544922 incremental :0.5258560180664062
+Current memory usage: 0.03181934356689453MB
+Peak memory usage: 171.65460586547852MB
 Processing file: ./data/vm_cpu_readings-file-58-of-195.csv
-Memory used: 151.47560501098633 incremental :0.5143928527832031
+Current memory usage: 0.03035736083984375MB
+Peak memory usage: 171.6540403366089MB
 Processing file: ./data/vm_cpu_readings-file-59-of-195.csv
-Memory used: 151.47703552246094 incremental :0.000949859619140625
+Current memory usage: 0.03145790100097656MB
+Peak memory usage: 171.65324592590332MB
 Processing file: ./data/vm_cpu_readings-file-60-of-195.csv
-Memory used: 150.82923889160156 incremental :-0.647796630859375
+Current memory usage: 0.028783798217773438MB
+Peak memory usage: 171.65225505828857MB
 Processing file: ./data/vm_cpu_readings-file-61-of-195.csv
-Memory used: 151.63527297973633 incremental :0.8060340881347656
+Current memory usage: 0.028491973876953125MB
+Peak memory usage: 171.6516523361206MB
 Processing file: ./data/vm_cpu_readings-file-62-of-195.csv
-Memory used: 151.71453857421875 incremental :0.07878494262695312
+Current memory usage: 0.02825927734375MB
+Peak memory usage: 171.64496612548828MB
 Processing file: ./data/vm_cpu_readings-file-63-of-195.csv
-Memory used: 151.5157470703125 incremental :-0.19879150390625
+Current memory usage: 0.028061866760253906MB
+Peak memory usage: 171.65174961090088MB
 Processing file: ./data/vm_cpu_readings-file-64-of-195.csv
-Memory used: 152.02246475219727 incremental :0.5057563781738281
+Current memory usage: 0.02928447723388672MB
+Peak memory usage: 171.65245246887207MB
 Processing file: ./data/vm_cpu_readings-file-65-of-195.csv
-Memory used: 152.18682098388672 incremental :0.16387557983398438
+Current memory usage: 0.02821826934814453MB
+Peak memory usage: 171.65164852142334MB
 Processing file: ./data/vm_cpu_readings-file-66-of-195.csv
+Current memory usage: 0.028234481811523438MB
+Peak memory usage: 171.65146827697754MB
+Processing file: ./data/vm_cpu_readings-file-67-of-195.csv
+Current memory usage: 0.027729034423828125MB
+Peak memory usage: 171.6509952545166MB
+Processing file: ./data/vm_cpu_readings-file-68-of-195.csv
+Current memory usage: 0.03019428253173828MB
+Peak memory usage: 171.65144157409668MB
+Processing file: ./data/vm_cpu_readings-file-69-of-195.csv
+Current memory usage: 0.02794933319091797MB
+Peak memory usage: 171.6513795852661MB
+Processing file: ./data/vm_cpu_readings-file-70-of-195.csv
+Current memory usage: 0.028939247131347656MB
+Peak memory usage: 171.64567852020264MB
+Processing file: ./data/vm_cpu_readings-file-71-of-195.csv
+Current memory usage: 0.0355377197265625MB
+Peak memory usage: 171.6549425125122MB
+Processing file: ./data/vm_cpu_readings-file-72-of-195.csv
+Current memory usage: 0.027733802795410156MB
+Peak memory usage: 171.6508436203003MB
+Processing file: ./data/vm_cpu_readings-file-73-of-195.csv
+Current memory usage: 0.030465126037597656MB
+Peak memory usage: 171.652907371521MB
+Processing file: ./data/vm_cpu_readings-file-74-of-195.csv
+Current memory usage: 0.03384971618652344MB
+Peak memory usage: 171.64437770843506MB
+Processing file: ./data/vm_cpu_readings-file-75-of-195.csv
+Current memory usage: 0.028057098388671875MB
+Peak memory usage: 171.65169429779053MB
+Processing file: ./data/vm_cpu_readings-file-76-of-195.csv
+Current memory usage: 0.027784347534179688MB
+Peak memory usage: 171.65089893341064MB
+Processing file: ./data/vm_cpu_readings-file-77-of-195.csv
+Current memory usage: 0.031096458435058594MB
+Peak memory usage: 171.65414810180664MB
+Processing file: ./data/vm_cpu_readings-file-78-of-195.csv
+Current memory usage: 0.028006553649902344MB
+Peak memory usage: 171.65155601501465MB
+Processing file: ./data/vm_cpu_readings-file-79-of-195.csv
+Current memory usage: 0.03217887878417969MB
+Peak memory usage: 171.65426540374756MB
+Processing file: ./data/vm_cpu_readings-file-80-of-195.csv
+Current memory usage: 0.028395652770996094MB
+Peak memory usage: 171.6513967514038MB
+Processing file: ./data/vm_cpu_readings-file-81-of-195.csv
+Current memory usage: 0.02932453155517578MB
+Peak memory usage: 171.65196704864502MB
+Processing file: ./data/vm_cpu_readings-file-82-of-195.csv
+Current memory usage: 0.027764320373535156MB
+Peak memory usage: 171.65134143829346MB
+Processing file: ./data/vm_cpu_readings-file-83-of-195.csv
+Current memory usage: 0.028532028198242188MB
+Peak memory usage: 171.6519250869751MB
+Processing file: ./data/vm_cpu_readings-file-84-of-195.csv
+Current memory usage: 0.031304359436035156MB
+Peak memory usage: 171.65497016906738MB
+Processing file: ./data/vm_cpu_readings-file-85-of-195.csv
+Current memory usage: 0.028219223022460938MB
+Peak memory usage: 171.6517505645752MB
+Processing file: ./data/vm_cpu_readings-file-86-of-195.csv
+Current memory usage: 0.028334617614746094MB
+Peak memory usage: 171.65176486968994MB
+Processing file: ./data/vm_cpu_readings-file-87-of-195.csv
+Current memory usage: 0.02855396270751953MB
+Peak memory usage: 171.65207290649414MB
+Processing file: ./data/vm_cpu_readings-file-88-of-195.csv
+Current memory usage: 0.03082752227783203MB
+Peak memory usage: 171.65426063537598MB
+Processing file: ./data/vm_cpu_readings-file-89-of-195.csv
+Current memory usage: 0.028642654418945312MB
+Peak memory usage: 171.64508724212646MB
+Processing file: ./data/vm_cpu_readings-file-90-of-195.csv
+Current memory usage: 0.029664993286132812MB
+Peak memory usage: 171.65266132354736MB
+Processing file: ./data/vm_cpu_readings-file-91-of-195.csv
+Current memory usage: 0.028081893920898438MB
+Peak memory usage: 171.65145206451416MB
+Processing file: ./data/vm_cpu_readings-file-92-of-195.csv
+Current memory usage: 0.02825450897216797MB
+Peak memory usage: 171.65152072906494MB
+Processing file: ./data/vm_cpu_readings-file-93-of-195.csv
+Current memory usage: 0.027581214904785156MB
+Peak memory usage: 171.65080451965332MB
+Processing file: ./data/vm_cpu_readings-file-94-of-195.csv
+Current memory usage: 0.031030654907226562MB
+Peak memory usage: 171.65439319610596MB
+Processing file: ./data/vm_cpu_readings-file-95-of-195.csv
+Current memory usage: 0.027889251708984375MB
+Peak memory usage: 171.6446828842163MB
+Processing file: ./data/vm_cpu_readings-file-96-of-195.csv
+Current memory usage: 0.03191375732421875MB
+Peak memory usage: 171.65535736083984MB
+Processing file: ./data/vm_cpu_readings-file-97-of-195.csv
+Current memory usage: 0.028120040893554688MB
+Peak memory usage: 171.65131855010986MB
+Processing file: ./data/vm_cpu_readings-file-98-of-195.csv
+Current memory usage: 0.027727127075195312MB
+Peak memory usage: 171.65125846862793MB
+Processing file: ./data/vm_cpu_readings-file-99-of-195.csv
+Current memory usage: 0.02896595001220703MB
+Peak memory usage: 171.65247249603271MB
+Processing file: ./data/vm_cpu_readings-file-100-of-195.csv
+Current memory usage: 0.028039932250976562MB
+Peak memory usage: 171.65152072906494MB
+Processing file: ./data/vm_cpu_readings-file-101-of-195.csv
+Current memory usage: 0.028288841247558594MB
+Peak memory usage: 171.64488983154297MB
+Processing file: ./data/vm_cpu_readings-file-102-of-195.csv
+Current memory usage: 0.02758502960205078MB
+Peak memory usage: 171.64465045928955MB
+Processing file: ./data/vm_cpu_readings-file-103-of-195.csv
+Current memory usage: 0.028104782104492188MB
+Peak memory usage: 171.65158081054688MB
+Processing file: ./data/vm_cpu_readings-file-104-of-195.csv
+Current memory usage: 0.027556419372558594MB
+Peak memory usage: 171.64423274993896MB
+Processing file: ./data/vm_cpu_readings-file-105-of-195.csv
+Current memory usage: 0.028797149658203125MB
+Peak memory usage: 171.65227031707764MB
+Processing file: ./data/vm_cpu_readings-file-106-of-195.csv
+Current memory usage: 0.03099822998046875MB
+Peak memory usage: 171.65223789215088MB
+Processing file: ./data/vm_cpu_readings-file-107-of-195.csv
+Current memory usage: 0.029173851013183594MB
+Peak memory usage: 171.65249061584473MB
+Processing file: ./data/vm_cpu_readings-file-108-of-195.csv
+Current memory usage: 0.028352737426757812MB
+Peak memory usage: 171.6512222290039MB
+Processing file: ./data/vm_cpu_readings-file-109-of-195.csv
+Current memory usage: 0.028077125549316406MB
+Peak memory usage: 171.6514015197754MB
+Processing file: ./data/vm_cpu_readings-file-110-of-195.csv
+Current memory usage: 0.02911090850830078MB
+Peak memory usage: 171.65255451202393MB
+Processing file: ./data/vm_cpu_readings-file-111-of-195.csv
+Current memory usage: 0.028085708618164062MB
+Peak memory usage: 171.65157985687256MB
+Processing file: ./data/vm_cpu_readings-file-112-of-195.csv
+Current memory usage: 0.028104782104492188MB
+Peak memory usage: 171.65112113952637MB
+Processing file: ./data/vm_cpu_readings-file-113-of-195.csv
+Current memory usage: 0.027509689331054688MB
+Peak memory usage: 171.65091037750244MB
+Processing file: ./data/vm_cpu_readings-file-114-of-195.csv
+Current memory usage: 0.030181884765625MB
+Peak memory usage: 171.65360260009766MB
+Processing file: ./data/vm_cpu_readings-file-115-of-195.csv
+Current memory usage: 0.0280303955078125MB
+Peak memory usage: 171.65165901184082MB
+Processing file: ./data/vm_cpu_readings-file-116-of-195.csv
+Current memory usage: 0.028898239135742188MB
+Peak memory usage: 171.65194416046143MB
+Processing file: ./data/vm_cpu_readings-file-117-of-195.csv
+Current memory usage: 0.029323577880859375MB
+Peak memory usage: 171.64620876312256MB
+Processing file: ./data/vm_cpu_readings-file-118-of-195.csv
+Current memory usage: 0.028032302856445312MB
+Peak memory usage: 171.65157985687256MB
+Processing file: ./data/vm_cpu_readings-file-119-of-195.csv
+Current memory usage: 0.028405189514160156MB
+Peak memory usage: 171.65209674835205MB
+Processing file: ./data/vm_cpu_readings-file-120-of-195.csv
+Current memory usage: 0.02961254119873047MB
+Peak memory usage: 171.652982711792MB
+Processing file: ./data/vm_cpu_readings-file-121-of-195.csv
+Current memory usage: 0.03163337707519531MB
+Peak memory usage: 171.65298652648926MB
+Processing file: ./data/vm_cpu_readings-file-122-of-195.csv
+Current memory usage: 0.027387619018554688MB
+Peak memory usage: 171.65071201324463MB
+Processing file: ./data/vm_cpu_readings-file-123-of-195.csv
+Current memory usage: 0.02867603302001953MB
+Peak memory usage: 171.6520595550537MB
+Processing file: ./data/vm_cpu_readings-file-124-of-195.csv
+Current memory usage: 0.02866649627685547MB
+Peak memory usage: 171.6517972946167MB
+Processing file: ./data/vm_cpu_readings-file-125-of-195.csv
+Current memory usage: 0.027994155883789062MB
+Peak memory usage: 171.65118503570557MB
+Processing file: ./data/vm_cpu_readings-file-126-of-195.csv
+Current memory usage: 0.029588699340820312MB
+Peak memory usage: 171.65326309204102MB
+Processing file: ./data/vm_cpu_readings-file-127-of-195.csv
+Current memory usage: 0.028426170349121094MB
+Peak memory usage: 171.64514350891113MB
+Processing file: ./data/vm_cpu_readings-file-128-of-195.csv
+Current memory usage: 0.03040027618408203MB
+Peak memory usage: 171.64750480651855MB
+Processing file: ./data/vm_cpu_readings-file-129-of-195.csv
+Current memory usage: 0.02754497528076172MB
+Peak memory usage: 171.65090084075928MB
+Processing file: ./data/vm_cpu_readings-file-130-of-195.csv
+Current memory usage: 0.02898693084716797MB
+Peak memory usage: 171.6443042755127MB
+Processing file: ./data/vm_cpu_readings-file-131-of-195.csv
+Current memory usage: 0.028619766235351562MB
+Peak memory usage: 171.65154457092285MB
+Processing file: ./data/vm_cpu_readings-file-132-of-195.csv
+Current memory usage: 0.028069496154785156MB
+Peak memory usage: 171.65139770507812MB
+Processing file: ./data/vm_cpu_readings-file-133-of-195.csv
+Current memory usage: 0.0289459228515625MB
+Peak memory usage: 171.65132331848145MB
+Processing file: ./data/vm_cpu_readings-file-134-of-195.csv
+Current memory usage: 0.028291702270507812MB
+Peak memory usage: 171.65136909484863MB
+Processing file: ./data/vm_cpu_readings-file-135-of-195.csv
+Current memory usage: 0.028345108032226562MB
+Peak memory usage: 171.6518850326538MB
+Processing file: ./data/vm_cpu_readings-file-136-of-195.csv
+Current memory usage: 0.02866077423095703MB
+Peak memory usage: 171.6513786315918MB
+Processing file: ./data/vm_cpu_readings-file-137-of-195.csv
+Current memory usage: 0.028595924377441406MB
+Peak memory usage: 171.65211868286133MB
+Processing file: ./data/vm_cpu_readings-file-138-of-195.csv
+Current memory usage: 0.027494430541992188MB
+Peak memory usage: 171.65079498291016MB
+Processing file: ./data/vm_cpu_readings-file-139-of-195.csv
+Current memory usage: 0.02911376953125MB
+Peak memory usage: 171.65158462524414MB
+Processing file: ./data/vm_cpu_readings-file-140-of-195.csv
+Current memory usage: 0.029952049255371094MB
+Peak memory usage: 171.6525363922119MB
+Processing file: ./data/vm_cpu_readings-file-141-of-195.csv
+Current memory usage: 0.02783966064453125MB
+Peak memory usage: 171.6514434814453MB
+Processing file: ./data/vm_cpu_readings-file-142-of-195.csv
+Current memory usage: 0.029748916625976562MB
+Peak memory usage: 171.64688873291016MB
+Processing file: ./data/vm_cpu_readings-file-143-of-195.csv
+Current memory usage: 0.02803516387939453MB
+Peak memory usage: 171.65140628814697MB
+Processing file: ./data/vm_cpu_readings-file-144-of-195.csv
+Current memory usage: 0.0290374755859375MB
+Peak memory usage: 171.65258693695068MB
+Processing file: ./data/vm_cpu_readings-file-145-of-195.csv
+Current memory usage: 0.029043197631835938MB
+Peak memory usage: 171.65139770507812MB
+Processing file: ./data/vm_cpu_readings-file-146-of-195.csv
+Current memory usage: 0.02801227569580078MB
+Peak memory usage: 171.65054607391357MB
+Processing file: ./data/vm_cpu_readings-file-147-of-195.csv
+Current memory usage: 0.02884197235107422MB
+Peak memory usage: 171.65145111083984MB
+Processing file: ./data/vm_cpu_readings-file-148-of-195.csv
+Current memory usage: 0.028421401977539062MB
+Peak memory usage: 171.6516752243042MB
+Processing file: ./data/vm_cpu_readings-file-149-of-195.csv
+Current memory usage: 0.027782440185546875MB
+Peak memory usage: 171.65124034881592MB
+Processing file: ./data/vm_cpu_readings-file-150-of-195.csv
+Current memory usage: 0.029750823974609375MB
+Peak memory usage: 171.65251445770264MB
+Processing file: ./data/vm_cpu_readings-file-151-of-195.csv
+Current memory usage: 0.028174400329589844MB
+Peak memory usage: 171.6440019607544MB
+Processing file: ./data/vm_cpu_readings-file-152-of-195.csv
+Current memory usage: 0.027994155883789062MB
+Peak memory usage: 171.6512632369995MB
+Processing file: ./data/vm_cpu_readings-file-153-of-195.csv
+Current memory usage: 0.03024005889892578MB
+Peak memory usage: 171.65355682373047MB
+Processing file: ./data/vm_cpu_readings-file-154-of-195.csv
+Current memory usage: 0.02822399139404297MB
+Peak memory usage: 171.65152072906494MB
+Processing file: ./data/vm_cpu_readings-file-155-of-195.csv
+Current memory usage: 0.02917766571044922MB
+Peak memory usage: 171.65178966522217MB
+Processing file: ./data/vm_cpu_readings-file-156-of-195.csv
+Current memory usage: 0.02851581573486328MB
+Peak memory usage: 171.6511583328247MB
+Processing file: ./data/vm_cpu_readings-file-157-of-195.csv
+Current memory usage: 0.02854156494140625MB
+Peak memory usage: 171.6510705947876MB
+Processing file: ./data/vm_cpu_readings-file-158-of-195.csv
+Current memory usage: 0.029152870178222656MB
+Peak memory usage: 171.64579963684082MB
+Processing file: ./data/vm_cpu_readings-file-159-of-195.csv
+Current memory usage: 0.02901458740234375MB
+Peak memory usage: 171.65215969085693MB
+Processing file: ./data/vm_cpu_readings-file-160-of-195.csv
+Current memory usage: 0.02835559844970703MB
+Peak memory usage: 171.6510944366455MB
+Processing file: ./data/vm_cpu_readings-file-161-of-195.csv
+Current memory usage: 0.027894973754882812MB
+Peak memory usage: 171.65119552612305MB
+Processing file: ./data/vm_cpu_readings-file-162-of-195.csv
+Current memory usage: 0.03012561798095703MB
+Peak memory usage: 171.65272998809814MB
+Processing file: ./data/vm_cpu_readings-file-163-of-195.csv
+Current memory usage: 0.029157638549804688MB
+Peak memory usage: 171.65142917633057MB
+Processing file: ./data/vm_cpu_readings-file-164-of-195.csv
+Current memory usage: 0.02801227569580078MB
+Peak memory usage: 171.64502334594727MB
+Processing file: ./data/vm_cpu_readings-file-165-of-195.csv
+Current memory usage: 0.028146743774414062MB
+Peak memory usage: 171.6515302658081MB
+Processing file: ./data/vm_cpu_readings-file-166-of-195.csv
+Current memory usage: 0.02933025360107422MB
+Peak memory usage: 171.65262985229492MB
+Processing file: ./data/vm_cpu_readings-file-167-of-195.csv
+Current memory usage: 0.029501914978027344MB
+Peak memory usage: 171.65257835388184MB
+Processing file: ./data/vm_cpu_readings-file-168-of-195.csv
+Current memory usage: 0.029451370239257812MB
+Peak memory usage: 171.6526746749878MB
+Processing file: ./data/vm_cpu_readings-file-169-of-195.csv
+Current memory usage: 0.028873443603515625MB
+Peak memory usage: 171.65235900878906MB
+Processing file: ./data/vm_cpu_readings-file-170-of-195.csv
+Current memory usage: 0.029687881469726562MB
+Peak memory usage: 171.64635181427002MB
+Processing file: ./data/vm_cpu_readings-file-171-of-195.csv
+Current memory usage: 0.028243064880371094MB
+Peak memory usage: 171.65141105651855MB
+Processing file: ./data/vm_cpu_readings-file-172-of-195.csv
+Current memory usage: 0.029363632202148438MB
+Peak memory usage: 171.652756690979MB
+Processing file: ./data/vm_cpu_readings-file-173-of-195.csv
+Current memory usage: 0.028394699096679688MB
+Peak memory usage: 171.65171909332275MB
+Processing file: ./data/vm_cpu_readings-file-174-of-195.csv
+Current memory usage: 0.02791881561279297MB
+Peak memory usage: 171.6512966156006MB
+Processing file: ./data/vm_cpu_readings-file-175-of-195.csv
+Current memory usage: 0.02886676788330078MB
+Peak memory usage: 171.65221691131592MB
+Processing file: ./data/vm_cpu_readings-file-176-of-195.csv
+Current memory usage: 0.028959274291992188MB
+Peak memory usage: 171.65228080749512MB
+Processing file: ./data/vm_cpu_readings-file-177-of-195.csv
+Current memory usage: 0.028532981872558594MB
+Peak memory usage: 171.65201377868652MB
+Processing file: ./data/vm_cpu_readings-file-178-of-195.csv
+Current memory usage: 0.029010772705078125MB
+Peak memory usage: 171.6522092819214MB
+Processing file: ./data/vm_cpu_readings-file-179-of-195.csv
+Current memory usage: 0.027484893798828125MB
+Peak memory usage: 171.65086460113525MB
+Processing file: ./data/vm_cpu_readings-file-180-of-195.csv
+Current memory usage: 0.029979705810546875MB
+Peak memory usage: 171.65259170532227MB
+Processing file: ./data/vm_cpu_readings-file-181-of-195.csv
+Current memory usage: 0.02875518798828125MB
+Peak memory usage: 171.65203666687012MB
+Processing file: ./data/vm_cpu_readings-file-182-of-195.csv
+Current memory usage: 0.028244972229003906MB
+Peak memory usage: 171.65172290802002MB
+Processing file: ./data/vm_cpu_readings-file-183-of-195.csv
+Current memory usage: 0.03162384033203125MB
+Peak memory usage: 171.65478992462158MB
+Processing file: ./data/vm_cpu_readings-file-184-of-195.csv
+Current memory usage: 0.02898406982421875MB
+Peak memory usage: 171.652174949646MB
+Processing file: ./data/vm_cpu_readings-file-185-of-195.csv
+Current memory usage: 0.029760360717773438MB
+Peak memory usage: 171.6530523300171MB
+Processing file: ./data/vm_cpu_readings-file-186-of-195.csv
+Current memory usage: 0.027787208557128906MB
+Peak memory usage: 171.6513614654541MB
+Processing file: ./data/vm_cpu_readings-file-187-of-195.csv
+Current memory usage: 0.03141307830810547MB
+Peak memory usage: 171.64103889465332MB
+Processing file: ./data/vm_cpu_readings-file-188-of-195.csv
+Current memory usage: 0.03232383728027344MB
+Peak memory usage: 171.64891719818115MB
+Processing file: ./data/vm_cpu_readings-file-189-of-195.csv
+Current memory usage: 0.02901458740234375MB
+Peak memory usage: 171.65212440490723MB
+Processing file: ./data/vm_cpu_readings-file-190-of-195.csv
+Current memory usage: 0.028886795043945312MB
+Peak memory usage: 171.65226650238037MB
+Processing file: ./data/vm_cpu_readings-file-191-of-195.csv
+Current memory usage: 0.028186798095703125MB
+Peak memory usage: 171.65150833129883MB
+Processing file: ./data/vm_cpu_readings-file-192-of-195.csv
+Current memory usage: 0.031084060668945312MB
+Peak memory usage: 171.6543083190918MB
+Processing file: ./data/vm_cpu_readings-file-193-of-195.csv
+Current memory usage: 0.029595375061035156MB
+Peak memory usage: 171.65160083770752MB
+Processing file: ./data/vm_cpu_readings-file-194-of-195.csv
+Current memory usage: 0.03254508972167969MB
+Peak memory usage: 171.65572834014893MB
+Processing file: ./data/vm_cpu_readings-file-195-of-195.csv
+Current memory usage: 0.02931499481201172MB
+Peak memory usage: 171.653094291687MB
+Current memory usage: 0.02978515625MB
+Peak memory usage: 171.6529197692871MB
+Current memory usage: 0.013887405395507812MB
+Peak memory usage: 171.6079616546631MB
+Current memory usage: 0.032398223876953125MB
+Peak memory usage: 171.65552616119385MB
+Current memory usage: 0.03167438507080078MB
+Peak memory usage: 171.6545925140381MB
+Current memory usage: 0.028664588928222656MB
+Peak memory usage: 171.65206718444824MB
+Current memory usage: 0.029216766357421875MB
+Peak memory usage: 171.65237712860107MB
+Current memory usage: 0.03184700012207031MB
+Peak memory usage: 171.65512657165527MB
+Current memory usage: 0.028211593627929688MB
+Peak memory usage: 171.65139865875244MB
+Current memory usage: 0.029750823974609375MB
+Peak memory usage: 171.65304279327393MB
+Current memory usage: 0.02886676788330078MB
+Peak memory usage: 171.65218830108643MB
+Current memory usage: 0.02960968017578125MB
+Peak memory usage: 171.65297412872314MB
+Current memory usage: 0.028433799743652344MB
+Peak memory usage: 171.65103816986084MB
+Current memory usage: 0.03189659118652344MB
+Peak memory usage: 171.65497398376465MB
+Current memory usage: 0.03678131103515625MB
+Peak memory usage: 171.65708351135254MB
+Current memory usage: 0.028321266174316406MB
+Peak memory usage: 171.65168857574463MB
+Current memory usage: 0.03111553192138672MB
+Peak memory usage: 171.65445518493652MB
+Current memory usage: 0.02858448028564453MB
+Peak memory usage: 171.6519136428833MB
+Current memory usage: 0.0319061279296875MB
+Peak memory usage: 171.64810371398926MB
+Current memory usage: 0.03188514709472656MB
+Peak memory usage: 171.64813613891602MB
+Processing machine ID: hZFvb7jwXUKlAufG5uNi7HGxaloYST7O0SDkpc6Y1LNuOQd9tZZlA1qvF1ZFXqDm
+1148 to 1152
+Processing file: ./data/vm_cpu_readings-file-1-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-2-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-3-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-4-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-5-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-6-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-7-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-8-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-9-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-10-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-11-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-12-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-13-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-14-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-15-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-16-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-17-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-18-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-19-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-20-of-195.csv
+Current memory usage: 0.11526966094970703MBCurrent memory usage: 0.11502838134765625MB
+Peak memory usage: 171.72312355041504MB
+
+Peak memory usage: 171.7325668334961MB
+Processing file: ./data/vm_cpu_readings-file-21-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-22-of-195.csv
+Current memory usage: 0.11543464660644531MB
+Peak memory usage: 171.73243236541748MB
+Processing file: ./data/vm_cpu_readings-file-23-of-195.csv
+Current memory usage: 0.11223983764648438MB
+Peak memory usage: 171.73057079315186MB
+Processing file: ./data/vm_cpu_readings-file-24-of-195.csv
+Current memory usage: 0.1158590316772461MB
+Peak memory usage: 171.73344135284424MB
+Processing file: ./data/vm_cpu_readings-file-25-of-195.csv
+Current memory usage: 0.11341476440429688MB
+Peak memory usage: 171.73034763336182MB
+Processing file: ./data/vm_cpu_readings-file-26-of-195.csv
+Current memory usage: 0.11318588256835938MB
+Peak memory usage: 171.7304515838623MB
+Processing file: ./data/vm_cpu_readings-file-27-of-195.csv
+Current memory usage: 0.11668968200683594MB
+Peak memory usage: 171.73444652557373MB
+Processing file: ./data/vm_cpu_readings-file-28-of-195.csv
+Current memory usage: 0.11578178405761719MB
+Peak memory usage: 171.73383140563965MB
+Processing file: ./data/vm_cpu_readings-file-29-of-195.csv
+Current memory usage: 0.11470603942871094MB
+Peak memory usage: 171.7325325012207MB
+Processing file: ./data/vm_cpu_readings-file-30-of-195.csv
+Current memory usage: 0.11476898193359375MB
+Peak memory usage: 171.7328338623047MB
+Processing file: ./data/vm_cpu_readings-file-31-of-195.csv
+Current memory usage: 0.11321449279785156MB
+Peak memory usage: 171.7308645248413MB
+Processing file: ./data/vm_cpu_readings-file-32-of-195.csv
+Current memory usage: 0.11366748809814453MB
+Peak memory usage: 171.73136711120605MB
+Processing file: ./data/vm_cpu_readings-file-33-of-195.csv
+Current memory usage: 0.11416053771972656MB
+Peak memory usage: 171.73197269439697MB
+Processing file: ./data/vm_cpu_readings-file-34-of-195.csv
+Current memory usage: 0.04896736145019531MB
+Peak memory usage: 171.6689853668213MB
+Processing file: ./data/vm_cpu_readings-file-35-of-195.csv
+Current memory usage: 0.048984527587890625MB
+Peak memory usage: 171.65996551513672MB
+Processing file: ./data/vm_cpu_readings-file-36-of-195.csv
+Current memory usage: 0.04864692687988281MB
+Peak memory usage: 171.6674690246582MB
+Processing file: ./data/vm_cpu_readings-file-37-of-195.csv
+Current memory usage: 0.04930877685546875MB
+Peak memory usage: 171.6683235168457MB
+Processing file: ./data/vm_cpu_readings-file-38-of-195.csv
+Current memory usage: 0.0489044189453125MB
+Peak memory usage: 171.66874027252197MB
+Processing file: ./data/vm_cpu_readings-file-39-of-195.csv
+Current memory usage: 0.049060821533203125MB
+Peak memory usage: 171.6679286956787MB
+Processing file: ./data/vm_cpu_readings-file-40-of-195.csv
+Current memory usage: 0.04815864562988281MB
+Peak memory usage: 171.66747665405273MB
+Processing file: ./data/vm_cpu_readings-file-41-of-195.csv
+Current memory usage: 0.05004596710205078MB
+Peak memory usage: 171.66933917999268MB
+Processing file: ./data/vm_cpu_readings-file-42-of-195.csv
+Current memory usage: 0.049393653869628906MB
+Peak memory usage: 171.66913890838623MB
+Processing file: ./data/vm_cpu_readings-file-43-of-195.csv
+Current memory usage: 0.05046272277832031MB
+Peak memory usage: 171.66973495483398MB
+Processing file: ./data/vm_cpu_readings-file-44-of-195.csv
+Current memory usage: 0.04827594757080078MB
+Peak memory usage: 171.66747188568115MB
+Processing file: ./data/vm_cpu_readings-file-45-of-195.csv
+Current memory usage: 0.0489501953125MB
+Peak memory usage: 171.66883659362793MB
+Processing file: ./data/vm_cpu_readings-file-46-of-195.csv
+Current memory usage: 0.05037975311279297MB
+Peak memory usage: 171.6605339050293MB
+Processing file: ./data/vm_cpu_readings-file-47-of-195.csv
+Current memory usage: 0.05048084259033203MB
+Peak memory usage: 171.66950035095215MB
+Processing file: ./data/vm_cpu_readings-file-48-of-195.csv
+Current memory usage: 0.04575824737548828MBCurrent memory usage: 0.04682731628417969MB
+
+Peak memory usage: 171.66607093811035MB
+Peak memory usage: 171.66646575927734MB
+Processing file: ./data/vm_cpu_readings-file-49-of-195.csvProcessing file: ./data/vm_cpu_readings-file-50-of-195.csv
+
+Current memory usage: 0.046172142028808594MB
+Peak memory usage: 171.66597747802734MB
+Processing file: ./data/vm_cpu_readings-file-51-of-195.csv
+Current memory usage: 0.046723365783691406MB
+Peak memory usage: 171.66663455963135MB
+Processing file: ./data/vm_cpu_readings-file-52-of-195.csv
+Current memory usage: 0.04706764221191406MB
+Peak memory usage: 171.6674861907959MB
+Processing file: ./data/vm_cpu_readings-file-53-of-195.csv
+Current memory usage: 0.04764556884765625MB
+Peak memory usage: 171.6674861907959MB
+Processing file: ./data/vm_cpu_readings-file-54-of-195.csv
+Current memory usage: 0.04645824432373047MB
+Peak memory usage: 171.66602516174316MB
+Processing file: ./data/vm_cpu_readings-file-55-of-195.csv
+Current memory usage: 0.04694652557373047MB
+Peak memory usage: 171.66663455963135MB
+Processing file: ./data/vm_cpu_readings-file-56-of-195.csv
+Current memory usage: 0.04625892639160156MB
+Peak memory usage: 171.6579132080078MB
+Processing file: ./data/vm_cpu_readings-file-57-of-195.csv
+Current memory usage: 0.04822254180908203MB
+Peak memory usage: 171.66808795928955MB
+Processing file: ./data/vm_cpu_readings-file-58-of-195.csv
+Current memory usage: 0.047026634216308594MB
+Peak memory usage: 171.6674404144287MB
+Processing file: ./data/vm_cpu_readings-file-59-of-195.csv
+Current memory usage: 0.04630088806152344MB
+Peak memory usage: 171.66687107086182MB
+Processing file: ./data/vm_cpu_readings-file-60-of-195.csv
+Current memory usage: 0.046761512756347656MB
+Peak memory usage: 171.6665916442871MB
+Processing file: ./data/vm_cpu_readings-file-61-of-195.csv
+Current memory usage: 0.04655933380126953MB
+Peak memory usage: 171.66642951965332MB
+Processing file: ./data/vm_cpu_readings-file-62-of-195.csv
+Current memory usage: 0.04627799987792969MB
+Peak memory usage: 171.66626262664795MB
+Processing file: ./data/vm_cpu_readings-file-63-of-195.csv
+Current memory usage: 0.046799659729003906MB
+Peak memory usage: 171.6663999557495MB
+Processing file: ./data/vm_cpu_readings-file-64-of-195.csv
+Current memory usage: 0.11470413208007812MB
+Peak memory usage: 171.73267269134521MB
+Processing file: ./data/vm_cpu_readings-file-65-of-195.csv
+Current memory usage: 0.04660987854003906MB
+Peak memory usage: 171.66703701019287MB
+Processing file: ./data/vm_cpu_readings-file-66-of-195.csv
+Current memory usage: 0.04562091827392578MB
+Peak memory usage: 171.66579818725586MB
+Processing file: ./data/vm_cpu_readings-file-67-of-195.csv
+Current memory usage: 0.04616737365722656MB
+Peak memory usage: 171.65788555145264MB
+Processing file: ./data/vm_cpu_readings-file-68-of-195.csv
+Current memory usage: 0.04640007019042969MB
+Peak memory usage: 171.66600036621094MB
+Processing file: ./data/vm_cpu_readings-file-69-of-195.csv
+Current memory usage: 0.04607582092285156MB
+Peak memory usage: 171.66686153411865MB
+Processing file: ./data/vm_cpu_readings-file-70-of-195.csv
+Current memory usage: 0.04609203338623047MB
+Peak memory usage: 171.6659450531006MB
+Processing file: ./data/vm_cpu_readings-file-71-of-195.csv
+Current memory usage: 0.046156883239746094MB
+Peak memory usage: 171.65724563598633MB
+Processing file: ./data/vm_cpu_readings-file-72-of-195.csv
+Current memory usage: 0.046456336975097656MB
+Peak memory usage: 171.66631031036377MB
+Processing file: ./data/vm_cpu_readings-file-73-of-195.csv
+Current memory usage: 0.045823097229003906MB
+Peak memory usage: 171.6657428741455MB
+Processing file: ./data/vm_cpu_readings-file-74-of-195.csv
+Current memory usage: 0.11747932434082031MB
+Peak memory usage: 171.7349977493286MB
+Processing file: ./data/vm_cpu_readings-file-75-of-195.csv
+Current memory usage: 0.046057701110839844MB
+Peak memory usage: 171.66606330871582MB
+Processing file: ./data/vm_cpu_readings-file-76-of-195.csv
+Current memory usage: 0.11663532257080078MB
+Peak memory usage: 171.73420429229736MB
+Processing file: ./data/vm_cpu_readings-file-77-of-195.csv
+Current memory usage: 0.1163187026977539MB
+Peak memory usage: 171.73414039611816MB
+Processing file: ./data/vm_cpu_readings-file-78-of-195.csv
+Current memory usage: 0.11762809753417969MB
+Peak memory usage: 171.73549556732178MB
+Processing file: ./data/vm_cpu_readings-file-79-of-195.csv
+Current memory usage: 0.11337566375732422MB
+Peak memory usage: 171.73101139068604MB
+Processing file: ./data/vm_cpu_readings-file-80-of-195.csv
+Current memory usage: 0.0461883544921875MB
+Peak memory usage: 171.65795230865479MB
+Processing file: ./data/vm_cpu_readings-file-81-of-195.csv
+Current memory usage: 0.04597949981689453MB
+Peak memory usage: 171.66595458984375MB
+Processing file: ./data/vm_cpu_readings-file-82-of-195.csv
+Current memory usage: 0.04669761657714844MB
+Peak memory usage: 171.66655158996582MB
+Processing file: ./data/vm_cpu_readings-file-83-of-195.csv
+Current memory usage: 0.045922279357910156MB
+Peak memory usage: 171.66598796844482MB
+Processing file: ./data/vm_cpu_readings-file-84-of-195.csv
+Current memory usage: 0.04837322235107422MB
+Peak memory usage: 171.66779804229736MB
+Processing file: ./data/vm_cpu_readings-file-85-of-195.csv
+Current memory usage: 0.046525001525878906MB
+Peak memory usage: 171.66620635986328MB
+Processing file: ./data/vm_cpu_readings-file-86-of-195.csv
+Current memory usage: 0.0465545654296875MB
+Peak memory usage: 171.6665096282959MB
+Processing file: ./data/vm_cpu_readings-file-87-of-195.csv
+Current memory usage: 0.04623603820800781MB
+Peak memory usage: 171.66614437103271MB
+Processing file: ./data/vm_cpu_readings-file-88-of-195.csv
+Current memory usage: 0.04588508605957031MB
+Peak memory usage: 171.6664638519287MB
+Processing file: ./data/vm_cpu_readings-file-89-of-195.csv
+Current memory usage: 0.046128273010253906MB
+Peak memory usage: 171.66686344146729MB
+Processing file: ./data/vm_cpu_readings-file-90-of-195.csv
+Current memory usage: 0.05019950866699219MB
+Peak memory usage: 171.6606159210205MB
+Processing file: ./data/vm_cpu_readings-file-91-of-195.csv
+Current memory usage: 0.047507286071777344MB
+Peak memory usage: 171.6672649383545MB
+Processing file: ./data/vm_cpu_readings-file-92-of-195.csv
+Current memory usage: 0.04864692687988281MB
+Peak memory usage: 171.66776752471924MB
+Processing file: ./data/vm_cpu_readings-file-93-of-195.csv
+Current memory usage: 0.048529624938964844MB
+Peak memory usage: 171.66756916046143MB
+Processing file: ./data/vm_cpu_readings-file-94-of-195.csv
+Current memory usage: 0.047237396240234375MB
+Peak memory usage: 171.66701984405518MB
+Processing file: ./data/vm_cpu_readings-file-95-of-195.csv
+Current memory usage: 0.049530982971191406MB
+Peak memory usage: 171.66857051849365MB
+Processing file: ./data/vm_cpu_readings-file-96-of-195.csv
+Current memory usage: 0.04639434814453125MB
+Peak memory usage: 171.66621780395508MB
+Processing file: ./data/vm_cpu_readings-file-97-of-195.csv
+Current memory usage: 0.04701709747314453MB
+Peak memory usage: 171.6580810546875MB
+Processing file: ./data/vm_cpu_readings-file-98-of-195.csv
+Current memory usage: 0.0457611083984375MB
+Peak memory usage: 171.6657361984253MB
+Processing file: ./data/vm_cpu_readings-file-99-of-195.csv
+Current memory usage: 0.04585742950439453MB
+Peak memory usage: 171.66649627685547MB
+Processing file: ./data/vm_cpu_readings-file-100-of-195.csv
+Current memory usage: 0.04929161071777344MB
+Peak memory usage: 171.6683864593506MB
+Processing file: ./data/vm_cpu_readings-file-101-of-195.csv
+Current memory usage: 0.0464935302734375MB
+Peak memory usage: 171.65839290618896MB
+Processing file: ./data/vm_cpu_readings-file-102-of-195.csv
+Current memory usage: 0.046947479248046875MB
+Peak memory usage: 171.66693496704102MB
+Processing file: ./data/vm_cpu_readings-file-103-of-195.csv
+Current memory usage: 0.04682731628417969MB
+Peak memory usage: 171.66660976409912MB
+Processing file: ./data/vm_cpu_readings-file-104-of-195.csv
+Current memory usage: 0.04691886901855469MB
+Peak memory usage: 171.66686248779297MB
+Processing file: ./data/vm_cpu_readings-file-105-of-195.csv
+Current memory usage: 0.04633903503417969MB
+Peak memory usage: 171.65790557861328MB
+Processing file: ./data/vm_cpu_readings-file-106-of-195.csv
+Current memory usage: 0.045800209045410156MB
+Peak memory usage: 171.66550159454346MB
+Processing file: ./data/vm_cpu_readings-file-107-of-195.csv
+Current memory usage: 0.04613685607910156MB
+Peak memory usage: 171.66596031188965MB
+Processing file: ./data/vm_cpu_readings-file-108-of-195.csv
+Current memory usage: 0.046776771545410156MB
+Peak memory usage: 171.66641426086426MB
+Processing file: ./data/vm_cpu_readings-file-109-of-195.csv
+Current memory usage: 0.04659557342529297MB
+Peak memory usage: 171.66642951965332MB
+Processing file: ./data/vm_cpu_readings-file-110-of-195.csv
+Current memory usage: 0.048354148864746094MB
+Peak memory usage: 171.66843509674072MB
+Processing file: ./data/vm_cpu_readings-file-111-of-195.csv
+Current memory usage: 0.04631996154785156MB
+Peak memory usage: 171.6662998199463MB
+Processing file: ./data/vm_cpu_readings-file-112-of-195.csv
+Current memory usage: 0.045783042907714844MB
+Peak memory usage: 171.66570281982422MB
+Processing file: ./data/vm_cpu_readings-file-113-of-195.csv
+Current memory usage: 0.04681110382080078MB
+Peak memory usage: 171.66646194458008MB
+Processing file: ./data/vm_cpu_readings-file-114-of-195.csv
+Current memory usage: 0.04710960388183594MB
+Peak memory usage: 171.66706466674805MB
+Processing file: ./data/vm_cpu_readings-file-115-of-195.csv
+Current memory usage: 0.04876708984375MB
+Peak memory usage: 171.6687469482422MB
+Processing file: ./data/vm_cpu_readings-file-116-of-195.csv
+Current memory usage: 0.047127723693847656MB
+Peak memory usage: 171.66621780395508MB
+Processing file: ./data/vm_cpu_readings-file-117-of-195.csv
+Current memory usage: 0.045726776123046875MB
+Peak memory usage: 171.65738487243652MB
+Processing file: ./data/vm_cpu_readings-file-118-of-195.csv
+Current memory usage: 0.04642200469970703MB
+Peak memory usage: 171.66700553894043MB
+Processing file: ./data/vm_cpu_readings-file-119-of-195.csv
+Current memory usage: 0.047888755798339844MB
+Peak memory usage: 171.66762828826904MB
+Processing file: ./data/vm_cpu_readings-file-120-of-195.csv
+Current memory usage: 0.046683311462402344MB
+Peak memory usage: 171.66654205322266MB
+Processing file: ./data/vm_cpu_readings-file-121-of-195.csv
+Current memory usage: 0.046425819396972656MB
+Peak memory usage: 171.666410446167MB
+Processing file: ./data/vm_cpu_readings-file-122-of-195.csv
+Current memory usage: 0.04691505432128906MB
+Peak memory usage: 171.6667022705078MB
+Processing file: ./data/vm_cpu_readings-file-123-of-195.csv
+Current memory usage: 0.04694080352783203MB
+Peak memory usage: 171.66672325134277MB
+Processing file: ./data/vm_cpu_readings-file-124-of-195.csv
+Current memory usage: 0.046408653259277344MB
+Peak memory usage: 171.66609001159668MB
+Processing file: ./data/vm_cpu_readings-file-125-of-195.csv
+Current memory usage: 0.045955657958984375MB
+Peak memory usage: 171.66604137420654MB
+Processing file: ./data/vm_cpu_readings-file-126-of-195.csv
+Current memory usage: 0.046248435974121094MB
+Peak memory usage: 171.66600513458252MB
+Processing file: ./data/vm_cpu_readings-file-127-of-195.csv
+Current memory usage: 0.0464019775390625MB
+Peak memory usage: 171.6583023071289MB
+Processing file: ./data/vm_cpu_readings-file-128-of-195.csv
+Current memory usage: 0.04761505126953125MB
+Peak memory usage: 171.6674337387085MB
+Processing file: ./data/vm_cpu_readings-file-129-of-195.csv
+Current memory usage: 0.045497894287109375MB
+Peak memory usage: 171.65768814086914MB
+Processing file: ./data/vm_cpu_readings-file-130-of-195.csv
+Current memory usage: 0.04649829864501953MB
+Peak memory usage: 171.65810585021973MB
+Processing file: ./data/vm_cpu_readings-file-131-of-195.csv
+Current memory usage: 0.04535865783691406MB
+Peak memory usage: 171.66579055786133MB
+Processing file: ./data/vm_cpu_readings-file-132-of-195.csv
+Current memory usage: 0.046250343322753906MB
+Peak memory usage: 171.66590118408203MB
+Processing file: ./data/vm_cpu_readings-file-133-of-195.csv
+Current memory usage: 0.04693126678466797MB
+Peak memory usage: 171.66681480407715MB
+Processing file: ./data/vm_cpu_readings-file-134-of-195.csv
+Current memory usage: 0.04577159881591797MB
+Peak memory usage: 171.66580200195312MB
+Processing file: ./data/vm_cpu_readings-file-135-of-195.csv
+Current memory usage: 0.04632854461669922MB
+Peak memory usage: 171.66670513153076MB
+Processing file: ./data/vm_cpu_readings-file-136-of-195.csv
+Current memory usage: 0.04602527618408203MB
+Peak memory usage: 171.6667604446411MB
+Processing file: ./data/vm_cpu_readings-file-137-of-195.csv
+Current memory usage: 0.05095958709716797MB
+Peak memory usage: 171.6703586578369MB
+Processing file: ./data/vm_cpu_readings-file-138-of-195.csv
+Current memory usage: 0.04540443420410156MB
+Peak memory usage: 171.6654348373413MB
+Processing file: ./data/vm_cpu_readings-file-139-of-195.csv
+Current memory usage: 0.05030536651611328MB
+Peak memory usage: 171.6699571609497MB
+Processing file: ./data/vm_cpu_readings-file-140-of-195.csv
+Current memory usage: 0.04625511169433594MB
+Peak memory usage: 171.66617488861084MB
+Processing file: ./data/vm_cpu_readings-file-141-of-195.csv
+Current memory usage: 0.04966259002685547MB
+Peak memory usage: 171.6612958908081MB
+Processing file: ./data/vm_cpu_readings-file-142-of-195.csv
+Current memory usage: 0.046054840087890625MB
+Peak memory usage: 171.66587352752686MB
+Processing file: ./data/vm_cpu_readings-file-143-of-195.csv
+Current memory usage: 0.051055908203125MB
+Peak memory usage: 171.6707124710083MB
+Processing file: ./data/vm_cpu_readings-file-144-of-195.csv
+Current memory usage: 0.04748249053955078MB
+Peak memory usage: 171.66742134094238MB
+Processing file: ./data/vm_cpu_readings-file-145-of-195.csv
+Current memory usage: 0.045678138732910156MB
+Peak memory usage: 171.6657590866089MB
+Processing file: ./data/vm_cpu_readings-file-146-of-195.csv
+Current memory usage: 0.04546165466308594MB
+Peak memory usage: 171.66551780700684MB
+Processing file: ./data/vm_cpu_readings-file-147-of-195.csv
+Current memory usage: 0.05138111114501953MB
+Peak memory usage: 171.67116451263428MB
+Processing file: ./data/vm_cpu_readings-file-148-of-195.csv
+Current memory usage: 0.05070686340332031MB
+Peak memory usage: 171.67045974731445MB
+Processing file: ./data/vm_cpu_readings-file-149-of-195.csv
+Current memory usage: 0.05027484893798828MB
+Peak memory usage: 171.67059707641602MB
+Processing file: ./data/vm_cpu_readings-file-150-of-195.csv
+Current memory usage: 0.05066108703613281MB
+Peak memory usage: 171.67011070251465MB
+Processing file: ./data/vm_cpu_readings-file-151-of-195.csv
+Current memory usage: 0.05102729797363281MB
+Peak memory usage: 171.6707649230957MB
+Processing file: ./data/vm_cpu_readings-file-152-of-195.csv
+Current memory usage: 0.046772003173828125MB
+Peak memory usage: 171.657790184021MB
+Processing file: ./data/vm_cpu_readings-file-153-of-195.csv
+Current memory usage: 0.04604816436767578MB
+Peak memory usage: 171.66592693328857MB
+Processing file: ./data/vm_cpu_readings-file-154-of-195.csv
+Current memory usage: 0.051308631896972656MB
+Peak memory usage: 171.67133235931396MB
+Processing file: ./data/vm_cpu_readings-file-155-of-195.csv
+Current memory usage: 0.047003746032714844MB
+Peak memory usage: 171.66687297821045MB
+Processing file: ./data/vm_cpu_readings-file-156-of-195.csv
+Current memory usage: 0.052104949951171875MB
+Peak memory usage: 171.67180824279785MB
+Processing file: ./data/vm_cpu_readings-file-157-of-195.csv
+Current memory usage: 0.04693126678466797MB
+Peak memory usage: 171.6578025817871MB
+Processing file: ./data/vm_cpu_readings-file-158-of-195.csv
+Current memory usage: 0.051181793212890625MB
+Peak memory usage: 171.67080402374268MB
+Processing file: ./data/vm_cpu_readings-file-159-of-195.csv
+Current memory usage: 0.04655647277832031MB
+Peak memory usage: 171.66635990142822MB
+Processing file: ./data/vm_cpu_readings-file-160-of-195.csv
+Current memory usage: 0.04641532897949219MB
+Peak memory usage: 171.66611194610596MB
+Processing file: ./data/vm_cpu_readings-file-161-of-195.csv
+Current memory usage: 0.04641151428222656MB
+Peak memory usage: 171.6657009124756MB
+Processing file: ./data/vm_cpu_readings-file-162-of-195.csv
+Current memory usage: 0.050192832946777344MB
+Peak memory usage: 171.6616334915161MB
+Processing file: ./data/vm_cpu_readings-file-163-of-195.csv
+Current memory usage: 0.04687786102294922MB
+Peak memory usage: 171.66671562194824MB
+Processing file: ./data/vm_cpu_readings-file-164-of-195.csv
+Current memory usage: 0.048030853271484375MB
+Peak memory usage: 171.66822719573975MB
+Processing file: ./data/vm_cpu_readings-file-165-of-195.csv
+Current memory usage: 0.04646492004394531MB
+Peak memory usage: 171.66631412506104MB
+Processing file: ./data/vm_cpu_readings-file-166-of-195.csv
+Current memory usage: 0.04533100128173828MB
+Peak memory usage: 171.66581344604492MB
+Processing file: ./data/vm_cpu_readings-file-167-of-195.csv
+Current memory usage: 0.04671669006347656MB
+Peak memory usage: 171.66651916503906MB
+Processing file: ./data/vm_cpu_readings-file-168-of-195.csv
+Current memory usage: 0.046283721923828125MB
+Peak memory usage: 171.66666984558105MB
+Processing file: ./data/vm_cpu_readings-file-169-of-195.csv
+Current memory usage: 0.046164512634277344MB
+Peak memory usage: 171.66579055786133MB
+Processing file: ./data/vm_cpu_readings-file-170-of-195.csv
+Current memory usage: 0.045477867126464844MB
+Peak memory usage: 171.66544818878174MB
+Processing file: ./data/vm_cpu_readings-file-171-of-195.csv
+Current memory usage: 0.04680633544921875MB
+Peak memory usage: 171.66666984558105MB
+Processing file: ./data/vm_cpu_readings-file-172-of-195.csv
+Current memory usage: 0.046576499938964844MB
+Peak memory usage: 171.6581106185913MB
+Processing file: ./data/vm_cpu_readings-file-173-of-195.csv
+Current memory usage: 0.04617786407470703MB
+Peak memory usage: 171.66615772247314MB
+Processing file: ./data/vm_cpu_readings-file-174-of-195.csv
+Current memory usage: 0.04627418518066406MB
+Peak memory usage: 171.666428565979MB
+Processing file: ./data/vm_cpu_readings-file-175-of-195.csv
+Current memory usage: 0.046741485595703125MB
+Peak memory usage: 171.66651916503906MB
+Processing file: ./data/vm_cpu_readings-file-176-of-195.csv
+Current memory usage: 0.045958518981933594MB
+Peak memory usage: 171.66570568084717MB
+Processing file: ./data/vm_cpu_readings-file-177-of-195.csv
+Current memory usage: 0.045981407165527344MB
+Peak memory usage: 171.66593170166016MB
+Processing file: ./data/vm_cpu_readings-file-178-of-195.csv
+Current memory usage: 0.04652214050292969MB
+Peak memory usage: 171.6665163040161MB
+Processing file: ./data/vm_cpu_readings-file-179-of-195.csv
+Current memory usage: 0.046912193298339844MB
+Peak memory usage: 171.66758728027344MB
+Processing file: ./data/vm_cpu_readings-file-180-of-195.csv
+Current memory usage: 0.046627044677734375MB
+Peak memory usage: 171.66646003723145MB
+Processing file: ./data/vm_cpu_readings-file-181-of-195.csv
+Current memory usage: 0.04491424560546875MB
+Peak memory usage: 171.66546249389648MB
+Processing file: ./data/vm_cpu_readings-file-182-of-195.csv
+Current memory usage: 0.046555519104003906MB
+Peak memory usage: 171.66620635986328MB
+Processing file: ./data/vm_cpu_readings-file-183-of-195.csv
+Current memory usage: 0.047509193420410156MB
+Peak memory usage: 171.6673173904419MB
+Processing file: ./data/vm_cpu_readings-file-184-of-195.csv
+Current memory usage: 0.045558929443359375MB
+Peak memory usage: 171.6655149459839MB
+Processing file: ./data/vm_cpu_readings-file-185-of-195.csv
+Current memory usage: 0.046378135681152344MB
+Peak memory usage: 171.66651916503906MB
+Processing file: ./data/vm_cpu_readings-file-186-of-195.csv
+Current memory usage: 0.047011375427246094MB
+Peak memory usage: 171.657958984375MB
+Processing file: ./data/vm_cpu_readings-file-187-of-195.csv
+Current memory usage: 0.04810905456542969MB
+Peak memory usage: 171.6682357788086MB
+Processing file: ./data/vm_cpu_readings-file-188-of-195.csv
+Current memory usage: 0.04619789123535156MB
+Peak memory usage: 171.66616821289062MB
+Processing file: ./data/vm_cpu_readings-file-189-of-195.csv
+Current memory usage: 0.0510101318359375MB
+Peak memory usage: 171.67066192626953MB
+Processing file: ./data/vm_cpu_readings-file-190-of-195.csv
+Current memory usage: 0.04651451110839844MB
+Peak memory usage: 171.6664228439331MB
+Processing file: ./data/vm_cpu_readings-file-191-of-195.csv
+Current memory usage: 0.046378135681152344MB
+Peak memory usage: 171.66682052612305MB
+Processing file: ./data/vm_cpu_readings-file-192-of-195.csv
+Current memory usage: 0.045703887939453125MB
+Peak memory usage: 171.66565799713135MB
+Processing file: ./data/vm_cpu_readings-file-193-of-195.csv
+Current memory usage: 0.045684814453125MB
+Peak memory usage: 171.6655683517456MB
+Processing file: ./data/vm_cpu_readings-file-194-of-195.csv
+Current memory usage: 0.04735374450683594MB
+Peak memory usage: 171.6672239303589MB
+Processing file: ./data/vm_cpu_readings-file-195-of-195.csv
+Current memory usage: 0.046256065368652344MB
+Peak memory usage: 171.65047359466553MB
+Current memory usage: 0.04589080810546875MB
+Peak memory usage: 171.66562271118164MB
+Current memory usage: 0.04520988464355469MB
+Peak memory usage: 171.6566801071167MB
+Current memory usage: 0.050567626953125MB
+Peak memory usage: 171.67035102844238MB
+Current memory usage: 0.018477439880371094MB
+Peak memory usage: 171.60949897766113MB
+Current memory usage: 0.04408073425292969MB
+Peak memory usage: 171.66447925567627MB
+Current memory usage: 0.0507354736328125MB
+Peak memory usage: 171.67031383514404MB
+Current memory usage: 0.04618263244628906MB
+Peak memory usage: 171.66612148284912MB
+Current memory usage: 0.04539680480957031MB
+Peak memory usage: 171.66534614562988MB
+Current memory usage: 0.04612159729003906MB
+Peak memory usage: 171.6658992767334MB
+Current memory usage: 0.0468292236328125MB
+Peak memory usage: 171.6667079925537MB
+Current memory usage: 0.044495582580566406MB
+Peak memory usage: 171.66436958312988MB
+Current memory usage: 0.049144744873046875MB
+Peak memory usage: 171.66936016082764MB
+Current memory usage: 0.05071449279785156MB
+Peak memory usage: 171.6708059310913MB
+Current memory usage: 0.04589366912841797MB
+Peak memory usage: 171.66584873199463MB
+Current memory usage: 0.045868873596191406MB
+Peak memory usage: 171.66626071929932MB
+Current memory usage: 0.042987823486328125MB
+Peak memory usage: 171.663348197937MB
+Current memory usage: 0.05088329315185547MB
+Peak memory usage: 171.6711139678955MB
+Current memory usage: 0.0460052490234375MB
+Peak memory usage: 171.66587448120117MB
+Current memory usage: 0.046329498291015625MB
+Peak memory usage: 171.65739822387695MB
+Processing machine ID: TehU9LkUgQ2pyD/1nF2TQAgIpDbyEVHJp+sJ09TsCaSi9iaO9Xfj2/Jo27WRIy5b
+Processing machine ID: QsiQXWzc6jaUophAt3UQeFaTEcfAxHpFQhcIcWiWJJfWO5M1E9H7yKCKCSxvs/1V
+Processing machine ID: pZrbjiqmuqpTCCh/xsl853wFUbreqxapPzjd6HMCTYwsj5dE5B3skP224AGxebo7
+Processing machine ID: hxcdgdnhuPKTKhFWLEculnwj7jggYhAszFvbVernB3hq5Q2vAPni0hIv6GluNKgk
+1152 to 1156
+Processing file: ./data/vm_cpu_readings-file-1-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-2-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-3-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-4-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-5-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-6-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-7-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-8-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-9-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-10-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-11-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-12-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-13-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-14-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-15-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-16-of-195.csvProcessing file: ./data/vm_cpu_readings-file-17-of-195.csv
+
+Processing file: ./data/vm_cpu_readings-file-18-of-195.csv
+Processing file: ./data/vm_cpu_readings-file-19-of-195.csvProcessing file: ./data/vm_cpu_readings-file-20-of-195.csv
+
+Current memory usage: 0.1121816635131836MB
+Peak memory usage: 171.72808837890625MB
+Processing file: ./data/vm_cpu_readings-file-21-of-195.csv
+Current memory usage: 0.1123199462890625MB
+Peak memory usage: 171.71791172027588MB
+Processing file: ./data/vm_cpu_readings-file-22-of-195.csv
+Current memory usage: 0.11273670196533203MB
+Peak memory usage: 171.72973155975342MB
+Processing file: ./data/vm_cpu_readings-file-23-of-195.csv
+Current memory usage: 0.11240005493164062MB
+Peak memory usage: 171.7275276184082MB
+Processing file: ./data/vm_cpu_readings-file-24-of-195.csv
+Current memory usage: 0.11252498626708984MB
+Peak memory usage: 171.72983360290527MB
+Processing file: ./data/vm_cpu_readings-file-25-of-195.csv
+Current memory usage: 0.1121377944946289MB
+Peak memory usage: 171.72734451293945MB
+Processing file: ./data/vm_cpu_readings-file-26-of-195.csv
+Current memory usage: 0.11327266693115234MB
+Peak memory usage: 171.73126220703125MB
+Processing file: ./data/vm_cpu_readings-file-27-of-195.csv
+Current memory usage: 0.11472225189208984MB
+Peak memory usage: 171.73240852355957MB
+Processing file: ./data/vm_cpu_readings-file-28-of-195.csv
+Current memory usage: 0.1141653060913086MB
+Peak memory usage: 171.73206329345703MB
+Processing file: ./data/vm_cpu_readings-file-29-of-195.csv
+Current memory usage: 0.11312675476074219MB
+Peak memory usage: 171.73083686828613MB
+Processing file: ./data/vm_cpu_readings-file-30-of-195.csv
+Current memory usage: 0.114013671875MB
+Peak memory usage: 171.7317600250244MB
+Processing file: ./data/vm_cpu_readings-file-31-of-195.csv
+Current memory usage: 0.1119680404663086MB
+Peak memory usage: 171.7293176651001MB
+Processing file: ./data/vm_cpu_readings-file-32-of-195.csv
+Current memory usage: 0.11428451538085938MB
+Peak memory usage: 171.73200511932373MB
+Processing file: ./data/vm_cpu_readings-file-33-of-195.csv
+Current memory usage: 0.11372089385986328MB
+Peak memory usage: 171.7315492630005MB
+Processing file: ./data/vm_cpu_readings-file-34-of-195.csv
+Current memory usage: 0.11327648162841797MB
+Peak memory usage: 171.73095703125MB
+Processing file: ./data/vm_cpu_readings-file-35-of-195.csv
+Current memory usage: 0.1148824691772461MB
+Peak memory usage: 171.7322244644165MB
+Processing file: ./data/vm_cpu_readings-file-36-of-195.csv
+Current memory usage: 0.11415386199951172MB
+Peak memory usage: 171.73205184936523MB
+Processing file: ./data/vm_cpu_readings-file-37-of-195.csv
