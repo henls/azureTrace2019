@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import tracemalloc
+import time
 from concurrent.futures import ProcessPoolExecutor
 
 selected_columns = ['machine ID', 'timestamp', 'avg CPU usage']
@@ -53,8 +54,9 @@ def process_file(filename):
 if __name__ == "__main__":
     machine_size = 4
     machine_total = 20000
-    max_proceed_file_id = 1148
+    max_proceed_file_id = 1152
     for chunk_id in range(machine_total // 4):
+        start = time.time()
         start, end = chunk_id * machine_size, (chunk_id + 1) * machine_size
         if end < max_proceed_file_id:
             continue
@@ -77,3 +79,4 @@ if __name__ == "__main__":
             machine_data = machine_data.sort_values(by='timestamp')
             machine_data.to_csv(file_name, index=False)
             all_data = all_data[all_data['machine ID'] != machine_id]
+        print(f"elapse: {time.time() - start}")
