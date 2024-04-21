@@ -17,7 +17,7 @@ file_names = ['./data/vm_cpu_readings-file-{}-of-195.csv'.format(i) for i in ran
 # 一共时10e7行
 total_chunksize = 1e7
 chunksize = 1e6 # 读十万行
-cpus = 20
+cpus = 40
 
 def process_file(filename):
     global start, end
@@ -52,11 +52,11 @@ def process_file(filename):
     return chunks
 
 if __name__ == "__main__":
-    machine_size = 4
+    machine_size = 400
     machine_total = 20000
-    max_proceed_file_id = 1152
-    for chunk_id in range(machine_total // 4):
-        start = time.time()
+    max_proceed_file_id = 1201
+    for chunk_id in range(machine_total // machine_size):
+        start_time = time.time()
         start, end = chunk_id * machine_size, (chunk_id + 1) * machine_size
         if end < max_proceed_file_id:
             continue
@@ -79,4 +79,4 @@ if __name__ == "__main__":
             machine_data = machine_data.sort_values(by='timestamp')
             machine_data.to_csv(file_name, index=False)
             all_data = all_data[all_data['machine ID'] != machine_id]
-        print(f"elapse: {time.time() - start}")
+        print(f"elapse: {time.time() - start_time}")
